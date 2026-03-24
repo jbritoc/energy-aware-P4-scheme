@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+build/
+logs/
+pcaps/
+plots/
+
+*.png
+*.pdf
+*.eps
+
+*.pcap
+*.pcapng
+
+.DS_Store
